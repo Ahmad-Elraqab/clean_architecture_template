@@ -18,7 +18,7 @@ class AppDependencies {
   factory AppDependencies.of(context, env) =>
       _instance ?? AppDependencies._(context: context, env: env);
 
-  List<SingleChildWidget> get state => [
+  List<SingleChildWidget> get providers => [
         ..._analytics,
         ..._httpClients,
         ..._dataStorages,

@@ -13,7 +13,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // return MultiProvider(
-    //   providers: AppDependencies.of(context, env).state,
+    //   providers: AppDependencies.of(context, env).providers,
     //   child: _MaterialApp(_router),
     // );
     return _MaterialApp(_router);
