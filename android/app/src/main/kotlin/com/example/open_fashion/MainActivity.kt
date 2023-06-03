@@ -1,4 +1,4 @@
-package com.example.open_fashion
+package com.example.template
 
 import io.flutter.embedding.android.FlutterActivity
 

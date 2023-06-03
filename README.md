@@ -1,4 +1,4 @@
-# open_fashion
+# template
 
 A new Flutter project.
 

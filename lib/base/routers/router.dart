@@ -2,8 +2,8 @@
 // `flutter pub run build_runner build --delete-conflicting-outputs`
 
 import 'package:auto_route/auto_route.dart';
-import 'package:open_fashion/presentation/main/main_page.dart';
-import 'package:open_fashion/presentation/main/main_page_wrapper.dart';
+import 'package:template/presentation/main/main_page.dart';
+import 'package:template/presentation/main/main_page_wrapper.dart';
 
 @MaterialAutoRouter(
   replaceInRouteName: 'Page,Route',

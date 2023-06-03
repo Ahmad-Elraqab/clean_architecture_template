@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:open_fashion/base/app/config/environment_config.dart';
-import 'package:open_fashion/base/di/app_dependencies.dart';
+import 'package:template/base/app/config/environment_config.dart';
+import 'package:template/base/di/app_dependencies.dart';
 import 'package:provider/provider.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 import '../routers/router.gr.dart' as router;
